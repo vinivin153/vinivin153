@@ -2,12 +2,13 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vinivin153)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>Coding time for a week</h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinivin153&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vinivin153/vinivin153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Coding time for a week</h2>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinivin153&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
